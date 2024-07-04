@@ -272,5 +272,6 @@ public class Main{
         rentalSystem.addCar(car6);
         
         rentalSystem.menu();
+        // Hello
     }
 }
